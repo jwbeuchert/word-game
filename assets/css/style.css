@@ -4,31 +4,33 @@
 	text-align: center;
 	background: url('https://tattyshack.com/wp-content/uploads/2018/06/zoltar-poster-web2.jpg');
 	background-repeat: no-repeat;
-    background-position: center;
-    background-attachment:local;
-	background-size: 50%;
-	opacity: 0.3; 
-}
+    background-position: top;
+    background-attachment:scroll;
+	background-size: 50%;}
 
 h1 {
 	font-size: 44px;
 	font-weight: bolder;
 	font-family: sans-serif;
     line-height: 50px;
-    color: black;
+	color: yellow;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 h3 {
 	font-size: 24px;
 	font-style: normal;
-	font-weight: lighter;
+	font-weight: bolder;
     line-height: 30px;
-    color: black;
+    color: yellow;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 p {
 	line-height: 20px;
 	font-size: 18px;
-    font-family: sans-serif;
-    color: black;
+	font-family: sans-serif;
+	font-weight: bolder;
+    color: yellow;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
